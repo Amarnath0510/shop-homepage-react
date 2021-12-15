@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap:60px;
+  margin-right:50px;
+  margin-left:50px;
+  margin-top:50px;
+  margin-bottom:50px;
+
+  
 }
 
 .App-logo {
@@ -35,4 +44,96 @@
   to {
     transform: rotate(360deg);
   }
+}
+ .imagecontainer{
+  height:450px;
+  width:300px;
+  display:flex;
+  flex-wrap:wrap;
+ 
+ } 
+
+.image1container{
+  height:450px;
+  width:300px;
+  object-fit: contain;
+  display:flex;
+  flex-wrap:wrap;
+  margin-bottom: 500px;
+}
+.image2container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+.image3container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+.image4container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+.image5container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+.image6container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+.image7container{
+  height:450px;
+  width:300px;
+  object-fit: cover;
+  display:flex;
+  flex-wrap:wrap;
+}
+
+ body{
+   background-color:whitesmoke ;
+ }
+
+.container7{
+height: max-content;
+}
+ .sub-container8{
+  display:block;
+  margin-right: 1300px;
+  margin-bottom:50px ;
+ }
+ 
+ .container3{
+  display:flex;
+  flex-wrap: wrap;
+ margin: 0px;
+}
+.imagecontainer{
+  height:450px;
+  width:300px;
+  
+ 
+ } 
+ 
+
+.Laptop{
+  display: flex;
+  flex-wrap: wrap;
+}
+ .heading1{
+background-color: black;
 }
