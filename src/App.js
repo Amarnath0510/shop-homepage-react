@@ -55,7 +55,7 @@ function Cart1(){
 }
 function Cart2(){
   return (
-    <div>
+    <div className="container2">
     <img  className="imagecontainer"
     src="https://m.media-amazon.com/images/I/71WuDXpTAlL._SL1500_.jpg" alt="Asus laptop"/>
    
@@ -73,7 +73,7 @@ function Cart2(){
    
 
    return (
-     <div>
+     <div className="container3">
      <img  className="image2container"
     src="https://m.media-amazon.com/images/I/71iFmu+eP7L._SL1100_.jpg" alt="Christmas Tree"/>
      
@@ -87,7 +87,7 @@ function Cart2(){
  }
  function Cart4(){
    return (
-     <div>
+     <div className="container4">
      <img  className="image3container"
      src="https://m.media-amazon.com/images/I/31KuARzVB3L.jpg" alt="Fancy Light"/>
      
@@ -100,7 +100,7 @@ function Cart2(){
  }
  function Cart5(){
    return (
-     <div>
+     <div className="container5">
     <img  className="image4container"
      src="https://shop.teamsg.in/wp-content/uploads/2021/03/25-1-scaled.jpg" alt="sunny Cool Bat"/>
     
@@ -115,7 +115,7 @@ function Cart2(){
  }
  function Cart6(){
    return (
-     <div>
+     <div className="container6">
      <img  className="image5container"
      src="https://images-na.ssl-images-amazon.com/images/I/81hmkKzH-AL.jpg" alt="Economy book"/>
      
@@ -141,7 +141,7 @@ function Cart2(){
  }
  function Cart8(){
    return (
-     <div>
+     <div className="container8">
      <img  className="image7container"
      src="https://m.media-amazon.com/images/I/61QoZCzMx3L._SL1000_.jpg" alt="Alexa speaker"/>
      
